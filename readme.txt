@@ -5,7 +5,7 @@ Contributors: craftwerk
 Requires at least: 4.5
 Tested up to: 5.7
 Requires PHP: 5.6
-Stable tag: 5.0.1.1
+Stable tag: 5.0.1.2
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +39,13 @@ https://bootscore.me/shop/
 
 
 == Changelog ==
+
+
+
+    = 5.0.1.2 - May 11 2021 =
+    
+        * [IMPROVENENT] Removed WP jQuery from header.php
+        * [SEO] Removed aria-labelledby="" from offcanvas (thnx Mike Collignon)
 
     = 5.0.1.1 - April 16 2021 =
     

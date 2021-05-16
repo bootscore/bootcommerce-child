@@ -5,7 +5,7 @@ Contributors: craftwerk
 Requires at least: 4.5
 Tested up to: 5.7
 Requires PHP: 5.6
-Stable tag: 5.0.1.2
+Stable tag: 5.0.1.3
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,7 +40,9 @@ https://bootscore.me/shop/
 
 == Changelog ==
 
-
+    = 5.0.1.3 - May 16 2021 =
+    
+        * [BUGFIX] Readded jQuery in header.php. Required if a 3rd party plugin loads jQuery in header instead in footer.
 
     = 5.0.1.2 - May 11 2021 =
     

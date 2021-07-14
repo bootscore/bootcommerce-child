@@ -5,7 +5,7 @@ Contributors: craftwerk
 Requires at least: 4.5
 Tested up to: 5.7.2
 Requires PHP: 5.6
-Stable tag: 5.0.2.0
+Stable tag: 5.0.2.1
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +39,10 @@ https://bootscore.me/shop/
 
 
 == Changelog ==
+
+    = 5.0.2.1 - July 14 2021 =
+    
+        * [UPDATE] header.php (bootscore 5.0.2.3)
 
     = 5.0.2.0 - May 31 2021 =
     

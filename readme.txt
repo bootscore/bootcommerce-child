@@ -16,7 +16,7 @@ WooCommerce Child Theme for bootScore, Copyright 2019 - 2021 Bastian Kreiter.
 
 This child theme has already all settings to create a shop, all header settings with cart and a basic store frontpage.
 
-Start developing your new project right away in a upgrade-safe way using overrides by copying files from bootScore 5 parent theme.
+Start developing your new project right away in a upgrade-safe way using overrides by copying files from bootScore parent theme.
 
 
 == Live preview ==

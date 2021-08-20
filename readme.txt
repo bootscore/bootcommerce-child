@@ -1,4 +1,4 @@
-=== bootCommerce 5 Child Theme ===
+=== bootCommerce Child Theme ===
 
 Contributors: craftwerk
 
@@ -12,7 +12,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-WooCommerce Child Theme for bootScore 5, Copyright 2019 - 2021 Bastian Kreiter.
+WooCommerce Child Theme for bootScore, Copyright 2019 - 2021 Bastian Kreiter.
 
 This child theme has already all settings to create a shop, all header settings with cart and a basic store frontpage.
 
@@ -21,7 +21,7 @@ Start developing your new project right away in a upgrade-safe way using overrid
 
 == Live preview ==
 
-https://bootscore.me/theme/header-nav-default/
+https://bootscore.me/
 
 
 == Installation ==

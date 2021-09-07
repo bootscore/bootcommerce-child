@@ -2,7 +2,7 @@
 
 Start developing your new WordPress project right away in a upgrade-safe way using overrides by copying files from [bootScore](https://github.com/crftwrk/bootscore) parent theme.
 
-This child theme has already all settings to create a shop, all header settings with cart and a basic store frontpage.
+This child theme has already all settings to create a shop, all header settings with cart and user login.
 
 ## Installation
 

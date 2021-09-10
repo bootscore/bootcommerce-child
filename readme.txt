@@ -1,13 +1,13 @@
 === bootCommerce Child Theme ===
 
-Contributors: craftwerk
+Contributors: The bootScore Contributors
 
 Requires at least: 4.5
-Tested up to: 5.8
+Tested up to: 5.8.1
 Requires PHP: 5.6
 Stable tag: 5.1.0.0
 License: MIT License
-License URI: https://github.com/crftwrk/bootcommerce-child/blob/main/LICENSE
+License URI: https://github.com/bootscore/bootcommerce-child/blob/main/LICENSE
 
 
 == Description ==

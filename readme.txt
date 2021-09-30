@@ -1,18 +1,18 @@
 === bootCommerce Child Theme ===
 
-Contributors: The bootScore Contributors
+Contributors: Bastian Kreiter, Justin Kruit
 
 Requires at least: 4.5
 Tested up to: 5.8.1
 Requires PHP: 5.6
-Stable tag: 5.1.0.0
+Stable tag: 5.1.0.1
 License: MIT License
 License URI: https://github.com/bootscore/bootcommerce-child/blob/main/LICENSE
 
 
 == Description ==
 
-WooCommerce Child Theme for bootScore, Copyright 2019 - 2021 Bastian Kreiter.
+WooCommerce Child Theme for bootScore, Copyright 2019 - 2021 bootScore.
 
 This child theme has already all settings to create a shop, all header settings with cart and a basic store frontpage.
 
@@ -39,6 +39,11 @@ https://bootscore.me/shop/
 
 
 == Changelog ==
+
+    = 5.1.0.1 - September 29 2021 =
+
+        * [IMPROVEMENT] Enqueue styles & scripts
+        * [NEW] Added Sass
 
     = 5.1.0.0 - September 08 2021 =
     

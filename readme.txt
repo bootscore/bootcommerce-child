@@ -14,7 +14,7 @@ License URI: https://github.com/bootscore/bootcommerce-child/blob/main/LICENSE
 
 WooCommerce Child Theme for bootScore, Copyright 2019 - 2021 bootScore.
 
-This child theme has already all settings to create a shop, all header settings with cart and a basic store frontpage.
+This child theme has already all settings to create a shop. This child needs WooCommerce to work.
 
 Start developing your new project right away in a upgrade-safe way using overrides by copying files from bootScore parent theme.
 

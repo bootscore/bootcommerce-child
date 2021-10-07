@@ -21,7 +21,7 @@ Start developing your new project right away in a upgrade-safe way using overrid
 
 == Live preview ==
 
-https://bootscore.me/
+https://bootscore.me/shop/
 
 
 == Installation ==
@@ -35,12 +35,12 @@ WooCommerce must be installed first!
 
 == Documentation ==
 
-https://bootscore.me/shop/
+https://bootscore.me/documentation/using-the-child-themes/
 
 
 == Changelog ==
 
-    = 5.1.0.2 - October 03 2021 =
+    = 5.1.0.2 - October 07 2021 =
 
         * [UPDATE] header.php (bootscore 5.1.2.0)
 

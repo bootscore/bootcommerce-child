@@ -5,7 +5,7 @@ Contributors: Bastian Kreiter, Justin Kruit
 Requires at least: 4.5
 Tested up to: 5.8.1
 Requires PHP: 5.6
-Stable tag: 5.1.0.1
+Stable tag: 5.1.0.2
 License: MIT License
 License URI: https://github.com/bootscore/bootcommerce-child/blob/main/LICENSE
 
@@ -39,6 +39,10 @@ https://bootscore.me/shop/
 
 
 == Changelog ==
+
+    = 5.1.0.2 - October 03 2021 =
+
+        * [UPDATE] header.php (bootscore 5.1.2.0)
 
     = 5.1.0.1 - September 29 2021 =
 

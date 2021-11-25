@@ -1,6 +1,6 @@
-@import "bscore_variables";
-@import "bootstrap/bootstrap";
-@import "bscore_style";
-@import "bscore_woocommerce";
+@import "bscore_variables";     
+@import "bootstrap/bootstrap";  // Collecting Bootstrap source from parent-theme
+@import "bscore_style";         // Collecting bootScore source from parent-theme
+@import "bscore_woocommerce";   // Collecting bootScore WooCommerce source from parent-theme
 @import "bscore_custom";
-@import "fontawesome";
+@import "fontawesome";          // Collecting Icons source from parent-theme

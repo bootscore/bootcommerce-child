@@ -3,9 +3,9 @@
 Contributors: Bastian Kreiter, Justin Kruit
 
 Requires at least: 4.5
-Tested up to: 5.8.1
+Tested up to: 5.8.3
 Requires PHP: 5.6
-Stable tag: 5.1.0.2
+Stable tag: 5.1.3.1
 License: MIT License
 License URI: https://github.com/bootscore/bootcommerce-child/blob/main/LICENSE
 
@@ -39,6 +39,13 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 
 == Changelog ==
+
+    = 5.1.3.1 - January 25 2022 =
+    
+        * [REMOVED] @import "fontawesome"; in css/scss/bootstrap.min.scss
+        * [REMOVED] language folder
+        * [ADDED] @import "bscore_woocommerce";
+        * [BUGFIX] Fixed class typo #9
 
     = 5.1.0.2 - October 07 2021 =
 

@@ -78,3 +78,14 @@ a:hover {
 .woocommerce .widget_price_filter .price_slider {
     margin-top: .5em;
 }
+
+.site-footer {
+    /* padding-top: 72px; */
+    background-position: center bottom;
+    background-color: #232323;
+    background-repeat: no-repeat;
+}
+
+.card .price .woocommerce-Price-amount.amount {
+    font-weight: 500;
+}

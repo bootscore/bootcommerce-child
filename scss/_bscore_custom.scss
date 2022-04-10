@@ -5,3 +5,76 @@
 // Add your own code here!
 // Because this file is compiled after Bootstrap, you're also able to use Bootstrap mixins for better code.
 // Some examples can be found here: https://bootscore.me/documentation/bootstrap-css-sass
+
+.product .card-body {
+    padding: .5rem .5rem;
+}
+
+.card .woocommerce-loop-product__title {
+    margin-bottom: 18px;
+    font-size: 1.2rem;
+    font-weight: normal;
+}
+
+.widget_layered_nav a,
+.widget_product_categories a,
+.woocommerce-widget-layered-nav-dropdown {
+    color: #505050;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.widget.woocommerce li .count {
+    margin-left: 4px;
+    color: #999;
+    font-size: 14px;
+}
+
+a:hover {
+    color: #0a58ca;
+}
+
+.widget-title {
+    position: relative;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #e5e5e5;
+    color: #232323;
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+.widget-title::after {
+    display: block;
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 90px;
+    height: 1px;
+    background-color: #05f;
+    content: '';
+}
+
+.footer_widget h2.widget-title.h4 {
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+
+.footer_widget .widget-title {
+    border-color: rgba(255, 255, 255, 0.13);
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.woocommerce .widget_price_filter .ui-slider-horizontal {
+    height: .15em;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+    width: .8em;
+    height: 0.8em;
+    top: -.35em;
+}
+
+.woocommerce .widget_price_filter .price_slider {
+    margin-top: .5em;
+}

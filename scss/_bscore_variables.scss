@@ -1,2 +1,8 @@
 // In this file you can override the default variables of Bootstrap
 // Do you want primary to be green? Just add "$primary: #00FF00;" to this file and the theme will automatically compile the scss for you.
+@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,400i,500,700");
+$font-family-sans-serif:      "Rubik", Helvetica, Arial, sans-serif !default;
+$font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+
+$headings-font-weight:        500 !default;
+$display-font-weight: 300 !default;

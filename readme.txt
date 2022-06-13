@@ -40,7 +40,7 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 == Changelog ==
 
-    = 5.2.0.0-beta1 - june 13 2022 =
+    = 5.2.0.0-beta1 - June 13 2022 =
 
         * Removed IE alert hook and updated version in header.php f0ef313
         * Removed navbar-light class

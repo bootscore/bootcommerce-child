@@ -1,0 +1,20 @@
+{
+    "name": "bootscore/bootcommerce-child",
+    "description": "WooCommerce child theme for bootscore",
+    "type": "wordpress-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "The Bootscore Authors"
+        }
+    ],
+    "minimum-stability": "stable",
+    "keywords": [
+      "wordpress",
+      "theme",
+      "bootscore",
+      "bootstrap",
+      "bootcommerce",
+      "woocommerce"
+    ]
+}

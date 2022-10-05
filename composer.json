@@ -8,6 +8,14 @@
             "name": "The Bootscore Authors"
         }
     ],
+    "readme": "README.md",
+    "homepage": "https://bootscore.me/",
+    "support": {
+      "issues": "https://github.com/bootscore/bootscore/issues",
+      "forum": "https://github.com/bootscore/bootscore/discussions",
+      "source": "https://github.com/bootscore/bootscore",
+      "docs": "https://bootscore.me/documentation/"
+    },
     "minimum-stability": "stable",
     "keywords": [
       "wordpress",

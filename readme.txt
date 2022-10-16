@@ -3,9 +3,9 @@
 Contributors: Bastian Kreiter, Justin Kruit
 
 Requires at least: 4.5
-Tested up to: 5.8.3
+Tested up to: 6.0.1
 Requires PHP: 5.6
-Stable tag: 5.1.3.1
+Stable tag: 5.2.0.0
 License: MIT License
 License URI: https://github.com/bootscore/bootcommerce-child/blob/main/LICENSE
 
@@ -39,6 +39,12 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 
 == Changelog ==
+
+    = 5.2.0.0 - July 22 2022 =
+
+        * Removed IE alert hook and updated version in header.php f0ef313
+        * Removed navbar-light class
+        * SCSS to main.css
 
     = 5.1.3.1 - January 25 2022 =
     

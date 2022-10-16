@@ -8,6 +8,7 @@ This child theme has already all settings to create a shop, all header settings 
 
 **WooCommerce must be installed first!**
 
-1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
-3. Click Activate to use your new theme right away.
+1. Download latest [bootcommerce-child-main.zip](https://github.com/bootscore/bootcommerce-child/releases) release.
+2. In your admin panel, go to Appearance > Themes and click the Add New button.
+3. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
+4. Click Activate to use your new theme right away.

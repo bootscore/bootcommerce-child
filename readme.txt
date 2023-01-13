@@ -1,6 +1,6 @@
 === bootCommerce Child Theme ===
 
-Contributors: Bastian Kreiter, Justin Kruit
+Contributors: Bastian Kreiter, Justin Kruit, Sean Emerson
 
 Requires at least: 4.5
 Tested up to: 6.1.1

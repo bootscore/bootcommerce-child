@@ -40,7 +40,7 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 == Changelog ==
 
-    = 5.2.3.1 - January 16 2022 =
+    = 5.2.3.1 - January 16 2023 =
 
         * Add composer.json
         * Update header.php according to refactored ajax cart

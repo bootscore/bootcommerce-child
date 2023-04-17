@@ -3,9 +3,9 @@
 Contributors: Bastian Kreiter, Justin Kruit, Sean Emerson
 
 Requires at least: 4.5
-Tested up to: 6.1.1
+Tested up to: 6.2
 Requires PHP: 5.6
-Stable tag: 5.2.3.1
+Stable tag: 5.2.3.4
 License: MIT License
 License URI: https://github.com/bootscore/bootcommerce-child/blob/main/LICENSE
 
@@ -39,6 +39,11 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 
 == Changelog ==
+
+    = 5.2.3.4 - April 17 2023 =
+    
+        * [FEATURE] Add bootscore_container_class() function #38
+        *  [FEATURE] Add new Top Nav 2 widget and improve HTML #39
 
     = 5.2.3.1 - January 16 2023 =
 

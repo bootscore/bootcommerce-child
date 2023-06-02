@@ -1,5 +1,7 @@
 # bootCommerce Child Theme
 
+**This child-theme is no longer needed since bootScore 5.3.0 version. Theme automatically activates all scripts when WooCommerce is installed. Use the normal bootscore-child theme.**
+
 Start developing your new WordPress project right away in a upgrade-safe way using overrides by copying files from [bootScore](https://github.com/crftwrk/bootscore) parent theme.
 
 This child theme has already all settings to create a shop, all header settings with cart, user login and WooCommerce support.
